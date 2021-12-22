@@ -1,0 +1,11 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('abhishek chu') {
+            steps {
+                echo 'nqaws]]'
+            }
+        }
+    }
+}
